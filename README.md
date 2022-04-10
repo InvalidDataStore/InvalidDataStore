@@ -1,10 +1,7 @@
 ### Hello, welcome to my github profile.
 I'm a programmer & web developer
 
-Contact me **via Discord**
-Discord                       |
- :-------------------------------- |
-[Link](discord.com/users/869017147085557770/) |
+Contact me **via [Discord](discord.com/users/869017147085557770/)**
 
 
 
