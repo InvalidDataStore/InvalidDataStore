@@ -7,3 +7,4 @@ Contact me **via** [Discord](https://discord.com/users/869017147085557770/)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InvalidDataStore&theme=vue-dark)
+###### most of my things are made for fun 🤭
